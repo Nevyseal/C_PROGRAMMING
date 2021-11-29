@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635145064 source:d:\root.jkuat.bit203\class work\question5(strings)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
